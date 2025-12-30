@@ -58,7 +58,7 @@ More projects in my pinned repositories!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashjindal2711&show_icons=true&theme=tokyonight" alt="GitHub Stats" 
-  width=1000
+  width=700
 />
 </p>
 
@@ -66,7 +66,7 @@ More projects in my pinned repositories!
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjindal2711&layout=compact&theme=tokyonight&card_width=600"
     alt="Top Languages"
-    width=1000
+    width=700
   />
 </p>
 
